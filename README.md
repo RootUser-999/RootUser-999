@@ -13,9 +13,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootuser-999&show_icons=true&locale=en&layout=compact" alt="rootuser-999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser-999&" alt="rootuser-999" /></p>
- <div>
-      <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" />
+<p></p>
+ <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser-999&" alt="rootuser-999" /> <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" />
     </div>
 <footer>
     <p>Designed with ❤️ by Shahzeb</p>
