@@ -34,35 +34,24 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; margin-top: 40px;">
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 40px;">
   <!-- GitHub Stats -->
-  <div style="flex: 1; padding: 0 10px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=rootuser-999&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
   </div>
 
-  <!-- GitHub Activity Graph -->
-  <div style="flex: 1; padding: 0 10px;">
-    <img src="https://activity-graph.herokuapp.com/graph?username=rootuser-999&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <!-- GitHub Streak -->
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser-999&" alt="GitHub Streak" />
   </div>
 
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-top: 40px;">
-
   <!-- Top Languages -->
-  <div style="flex: 1; padding: 0 10px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootuser-999&show_icons=true&locale=en&layout=compact" alt="rootuser-999" />
   </div>
 
-  <!-- GitHub Streak -->
-  <div style="flex: 1; padding: 0 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser-999&" alt="rootuser-999" />
-  </div>
-
-</div>
-
-<p align="center">
   <!-- LeetCode Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" style="border-radius: 10px; margin-top: 20px;" />
-</p>
+  <div>
+    <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" style="border-radius: 10px;" />
+  </div>
+</div>
