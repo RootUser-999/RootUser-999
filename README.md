@@ -15,8 +15,8 @@
 
 <p></p>
  <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser-999&" alt="rootuser-999" /> <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" />
+      <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" />
     </div>
-<footer>
+<footer align="center">
     <p>Designed with ❤️ by Shahzeb</p>
   </footer>
