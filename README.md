@@ -13,32 +13,25 @@
       background-color: #f9f9f9;
       color: #333;
     }
-
     h1, h3 {
       text-align: center;
       margin: 0;
-    }
-
-    h1 {
+    }h1 {
       font-size: 2.5em;
       margin-top: 20px;
       color: #0047ab;
     }
-
-    h3 {
+h3 {
       font-size: 1.5em;
       margin: 10px 0;
     }
-
     p {
       text-align: center;
     }
-
     a {
       text-decoration: none;
       color: inherit;
     }
-
     .social-icons, .tools, .stats {
       display: flex;
       flex-wrap: wrap;
@@ -46,22 +39,18 @@
       gap: 15px;
       margin: 20px 0;
     }
-
     .social-icons a img,
     .tools a img {
       transition: transform 0.3s ease;
     }
-
     .social-icons a img:hover,
     .tools a img:hover {
       transform: scale(1.1);
     }
-
     .section {
       margin: 30px 0;
       padding: 0 20px;
     }
-
     .stats-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -70,12 +59,10 @@
       margin-top: 30px;
       padding: 0 20px;
     }
-
     .stats img {
       width: 100%;
       border-radius: 10px;
     }
-
     footer {
       text-align: center;
       margin: 20px 0;
