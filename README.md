@@ -12,30 +12,31 @@
       padding: 0;
       background-color: #f9f9f9;
       color: #333;
+      text-align: center; /* Aligns all text to the center */
     }
-    h1, h3 {
-      text-align: center;
-      margin: 0;
-    }h1 {
+
+  h1 {
       font-size: 2.5em;
       margin-top: 20px;
       color: #0047ab;
     }
-h3 {
+
+  h3 {
       font-size: 1.5em;
       margin: 10px 0;
     }
     p {
-      text-align: center;
+      max-width: 800px;
+      margin: 0 auto; /* Centers paragraph text within its container */
     }
     a {
       text-decoration: none;
       color: inherit;
     }
-    .social-icons, .tools, .stats {
+    .social-icons, .tools {
       display: flex;
-      flex-wrap: wrap;
       justify-content: center;
+      flex-wrap: wrap;
       gap: 15px;
       margin: 20px 0;
     }
@@ -53,11 +54,12 @@ h3 {
     }
     .stats-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-template-columns: repeat(2, 1fr);
       gap: 20px;
       justify-content: center;
-      margin-top: 30px;
-      padding: 0 20px;
+      align-items: center;
+      max-width: 900px;
+      margin: 30px auto;
     }
     .stats img {
       width: 100%;
