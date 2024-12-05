@@ -37,7 +37,7 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 40px;">
   <!-- GitHub Stats -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rootuser-999&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=rootuser-999&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" /> -->
   </div>
 
   <!-- GitHub Streak -->
