@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px;">Hi 👋, I'm Shahzeb</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 24px;">Full-Stack Developer | Proficient in building scalable web applications using HTML, CSS, JavaScript (ES6), ReactJS, Next.js, and Node.js. Skilled in C, C++, C#, Java (OOP), and Python, with expertise in creating dynamic interfaces and optimizing back-end systems. Focused on delivering robust, maintainable, and efficient solutions.</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: #333;">Full-Stack Developer | Proficient in building scalable web applications using HTML, CSS, JavaScript (ES6), ReactJS, Next.js, and Node.js. Skilled in C, C++, C#, Java (OOP), and Python, with expertise in creating dynamic interfaces and optimizing back-end systems. Focused on delivering robust, maintainable, and efficient solutions.</h3>
 
 <h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 20px; margin-top: 30px;">Connect with me:</h3>
 <p align="left">
@@ -40,9 +40,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser-999&" alt="rootuser-999" />
-  
-![](https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap)
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" style="border-radius: 10px; margin-top: 20px;" />
+</p>
 
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rootuser-999&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=rootuser-999&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
