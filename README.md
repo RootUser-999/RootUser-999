@@ -14,8 +14,6 @@
  <div  display="flex" justify-content="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rootuser-999&show_icons=true&locale=en&layout=compact" alt="rootuser-999" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser-999&" alt="" /> 
-      <img src="https://leetcard.jacoblin.cool/SHAHZEB_999?ext=heatmap" alt="LeetCode Heatmap" />
-    </div>
-<footer align="center">
-    <p>Designed with ❤️ by Shahzeb</p>
-  </footer>
+      
+   </div>
+
