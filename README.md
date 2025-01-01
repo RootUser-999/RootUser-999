@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzeb</h1>
-<h3 align="center">Full-Stack Developer | Proficient in building scalable web applications using HTML, CSS, JavaScript (ES6), ReactJS, Next.js, and Node.js. Skilled in C, C++, C#, Java (OOP), and Python, with expertise in creating dynamic interfaces and optimizing back-end systems. Focused on delivering robust, maintainable, and efficient solutions.</h3>
+<h3 align="center">MERN Stack Developer | Experienced in building scalable and high-performance web applications using the MERN stack (MongoDB, Express.js, ReactJS, and Node.js). Skilled in developing dynamic user interfaces with ReactJS, JSX, and Bootstrap, while ensuring seamless back-end functionality with Express.js and Node.js. Proficient in database design and management with MongoDB. Alongside expertise in other programming languages like C, C++, C#, Java (OOP), and Python.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
